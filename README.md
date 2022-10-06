@@ -1,10 +1,9 @@
 # Predicting House Prices
 
-![logo](https://user-images.githubusercontent.com/99878615/194362573-6425ef28-ea68-4e87-9a92-8c0edc6d1e81.png)
-
 Predicting House Prices using Machine Learning: A Case Study of Saudi Arabia.
+## Logo
 
-
+![logo](https://user-images.githubusercontent.com/99878615/194362573-6425ef28-ea68-4e87-9a92-8c0edc6d1e81.png)
 ## Overview and Problem Background
 
 One of the problems that many people face is the search for a home that 
